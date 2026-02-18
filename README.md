@@ -29,7 +29,7 @@ A simple social media web application built with Django where users can:
 ---
 
 ## 📂 Project Structure
-
+```
 django-coffee-app/
 │
 ├── coffee/              # Main project configuration folder
@@ -57,6 +57,6 @@ django-coffee-app/
 ├── manage.py            # Django management script
 └── requirements.txt     # Project dependencies
 
-
+```
 
 
